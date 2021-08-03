@@ -107,8 +107,7 @@ recipes:
   backpack_key:
     ingredients:
       A: IRON_INGOT
-      B: FEATHER
     shape:
       - "  A"
-      - " BA"
-      - " AA"
+      - "A A"
+      - "AAA"
